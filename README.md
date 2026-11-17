@@ -1,1 +1,1 @@
-# Proyecto: Plataforma Unificada
+# Proyecto: Plataforma Unificada - Sistema Central
