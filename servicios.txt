@@ -1,3 +1,5 @@
 servicio_web=activo
 base_datos=activa
 cola_mensajes=activa-kafka
+cola_mensajes=activa-rabbitMQ
+
